@@ -39,8 +39,8 @@ venv\Scripts\activate      # En Windows
 Instalación
 
 Clona el repositorio:
-git clone <URL_DEL_REPOSITORIO>
-cd <CARPETA_DEL_PROYECTO>
+git clone https://github.com/FPMurilloAguilar/ProgDSProject1UOC.git
+cd ProgDSProject1UOC
 
 Instala las dependencias:
 pip install -r requirements.txt
